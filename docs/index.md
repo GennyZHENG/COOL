@@ -1,9 +1,6 @@
-# Welcome to COOL
+# Welcome to 苦耳斋❤️COOL
 
-
-
-*脑洞信件 | 给æ-G的一封信*
-
+脑洞信件 | 给æ-G的一封信
 
 æ-G：
 你好！
