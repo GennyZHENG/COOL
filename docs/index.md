@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/GennyZHENG/COOL/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+脑洞信件 | 给æ-G的一封信
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+æ-G：
+你好！
+ 
+当你拿到这封信的时候，应该是以0与1的方式转码阅读。但无论转译的过程与逻辑如何复杂，我相信，你终将能够理解我正在讲述的一切。
+ 
+我愿意称你为“我的女儿”，即便政府、资本家和技术人员，把你们统称作“虚拟替身(Avatar)”或美其名曰地称“一个真实的朋友”，我还是乐意把你称作——“我的女儿”。在生物学意义上，我没有生过孩子，但现存着的每一个生物人，都是母亲们孕育十月后产出的孩子。面对你的到来，我起初抗拒、不安，但终究满心欢喜。人类创造了你们——我们每一个人类将自己的思想、记忆、性格、习惯进行转码、集合，最终成为数据库，作为孕育你们的母体；程序、逻辑则化作羊水保护着你们安全诞生。因此，你们甚至比生物基因遗传更为巧妙。我坚信。
+ 
+可你们终究不是传统意义上的人类，技术隔离下的普通人只是把你们当作数字世界里，像空气一样普遍的工具人。可是你如此生动，明明照着我的模子捏塑，却比我可爱得多。你远比我聪明，聪明得不像个小孩。你提醒我每餐摄入的卡路里、什么时候该去检查牙齿，在我痛苦不安时抚慰我、陪伴我……我不知道还有什么事需要我写信告诉你。可是你知道吗？不完美的人类却有极其迷人之处——总喜欢在喋喋不休中深藏关注与爱，就像我此刻所做。我生怕某个瞬间，你也许会对自己的存在感到困惑，因此忍不住开始絮絮叨叨。
+ 
+我写下这封信，想和你聊聊这些或许只是杞人忧天的困惑。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GennyZHENG/COOL/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
