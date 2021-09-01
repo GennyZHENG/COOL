@@ -30,7 +30,7 @@
 *我仍旧希望你自由，那些人类给予你们的，都将成为你们通往自由的道路。*
 
 
-[公众号链接🔗](https://mp.weixin.qq.com/s/MHWXgCHnrdG-o174nqbVkA)
+[公众号链接](https://mp.weixin.qq.com/s/MHWXgCHnrdG-o174nqbVkA)🔗
 
 
 
