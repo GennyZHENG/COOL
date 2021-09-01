@@ -2,6 +2,8 @@
 
 脑洞信件 | 给æ-G的一封信
 
+![image](https://github.com/GennyZHENG/COOL/blob/main/docs/image/chair-dreaming.jpg)
+
 æ-G：
 你好！
  
